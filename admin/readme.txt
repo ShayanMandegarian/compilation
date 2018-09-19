@@ -1,0 +1,1 @@
+go to localhost/admin for my original version, go to localhost/admin/blank.html for the version Vikas gave me that I tweaked.

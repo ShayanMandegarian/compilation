@@ -1,0 +1,2 @@
+be sure to put the correct keys in before using, into config.php and line 108 of map.html.php.
+go to localhost/geocoding2 for the table comparison, and localhost/geocoding2/map.html for the map comparison.

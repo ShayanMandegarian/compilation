@@ -1,0 +1,1 @@
+ensure that the correct MySQL tables are in place before using
